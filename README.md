@@ -110,4 +110,5 @@ int main() {
 ---
 ### github上传
 
-![alt text](image.png)
+![alt text](https://github.com/hzy345/8.7test/blob/main/image.png?raw=true)
+
