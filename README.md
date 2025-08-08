@@ -26,7 +26,13 @@ git remote add origin https://github.com/你的用户名/my-project.git
 git remote set-url origin https://github.com/你的用户名/my-project.git   #ssh连接
 git push -u origin master       # 或 main，取决于默认分支名
 ```
-
+后序上传下拉：
+```bash
+git add .
+git commit -m "说明"
+git push
+git pull
+```
 ---
 
 ## (3) 本地仓库如何创建新的分支
